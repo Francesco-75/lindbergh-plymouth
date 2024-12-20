@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Lindbergh Loader Boot Image
+Description=This is a plymouth theme which simply displays Lindbergh Loader Boot Image
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/lindbergh
+ScriptFile=/usr/share/plymouth/themes/lindbergh/lindbergh.script
