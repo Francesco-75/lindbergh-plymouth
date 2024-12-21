@@ -2,7 +2,7 @@
 
 This is a theme for plymouth which only displays Lindbergh Loader boot image
 
-Any Plymouth theme that you use needs to be installed into one of two directories. You can copy this theme in /usr/share/plymouth/themes.
+Any Plymouth theme that you use needs to be installed in /usr/share/plymouth/themes.
 
 After you have the Plymouth theme installed into the directory, you will need to add the theme to the default.plymouth. To add the theme you add it like so:
 
