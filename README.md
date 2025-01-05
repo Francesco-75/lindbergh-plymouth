@@ -19,3 +19,7 @@ After you have it chosen, you should now update your initramfs:
 sudo update-initramfs -u
 
 Reboot the system to see the new changes
+
+You eventually need to add "GRUB_GFXPAYLOAD_LINUX=1920x1080" to your /etc/default/grub if you want see the splash screen at original 1080p resolution
+Remember in that case to execute then a sudo update-grub 
+
