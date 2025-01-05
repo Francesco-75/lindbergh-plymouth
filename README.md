@@ -1,5 +1,7 @@
 # Plymouth theme - Lindbergh Loader Boot Image
 
+![splash](https://github.com/user-attachments/assets/9956b880-6d12-4f41-b93a-fc88c53f3bc6)
+
 This is a theme for plymouth which only displays Lindbergh Loader boot image
 
 Any Plymouth theme that you use needs to be installed in /usr/share/plymouth/themes.
